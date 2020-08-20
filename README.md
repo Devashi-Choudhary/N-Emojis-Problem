@@ -13,3 +13,7 @@ As the BFS and DFS are heuristic search algorithm, we need only **copy & emojis*
 3. You can open the folder and run following on command prompt.
 
 `python color_emoji_BFS.py` or `python color_emoji_DFS.py`
+
+# Results
+
+![output](https://github.com/Devashi-Choudhary/N-Emojis-Problem/blob/master/output.jpg)

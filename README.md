@@ -20,3 +20,7 @@ As the BFS and DFS are heuristic search algorithm, we need only **copy & emojis*
 # Results
 
 ![output](https://github.com/Devashi-Choudhary/N-Emojis-Problem/blob/master/output.jpg)
+
+# Acknowledgement 
+
+The project was done as a part of college assignment.
